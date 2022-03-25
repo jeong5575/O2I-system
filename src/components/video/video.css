@@ -1,0 +1,14 @@
+.video{
+
+
+
+    margin-left: 531px;
+  margin-top :200px;
+  margin-right: 450px;
+  margin-bottom: 50px;
+  padding: 10px;
+  -webkit-box-shadow: 5px 6px 15px 4px rgba(0,0,0,0.59); 
+  box-shadow: 5px 6px 15px 4px rgba(0,0,0,0.59);
+  justify-content: space-evenly;
+
+}
